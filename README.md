@@ -1,2 +1,2 @@
 # IA-Virtual
-Una asistente virtual
+Una asistente virtual, Hice esta Ia como un proyecto personal, la verdad me gustaria mejorarlo muchisimo, incluirle un chatbot, que pueda usar y ayudar en muchas tareas en linux, e incluso hacerlo multiplataforma con un modelo que recuerde a los usuarios, pero por el momento esto es todo lo que hay un GUI de una asistente, en el cual ya puedes ir trabajando lo q desees, puedes modificar los dibujos. 
