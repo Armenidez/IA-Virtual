@@ -30,8 +30,8 @@ a = 250
 b = 350
 
 # Spotify credentials
-client_id = 'be10e3b83fa64d478166bff785d08c3f'
-client_secret = 'c0d64c0d9bd34dec84705f16b2a7aa26'
+client_id = 'client_id'
+client_secret = 'client_secret'
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id, client_secret))
 
 #Traductor a japones
