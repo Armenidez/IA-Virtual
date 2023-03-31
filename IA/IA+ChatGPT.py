@@ -38,8 +38,8 @@ Datos=[  {"role": "system", "content": "Eres una asistente virtual eres dulce y 
 
 #OpenAI credentials
 
-openai.api_key = "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"
-openai.organization = "org-Em4hO2nxdWDmMqkOmYAMfUNJ"
+openai.api_key = "api key"
+openai.organization = "orgkey"
 
 # Spotify credentials
 client_id = 'be10e3b83fa64d478166bff785d08c3f'
