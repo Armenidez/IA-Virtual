@@ -42,8 +42,8 @@ openai.api_key = "api key"
 openai.organization = "orgkey"
 
 # Spotify credentials
-client_id = 'be10e3b83fa64d478166bff785d08c3f'
-client_secret = 'c0d64c0d9bd34dec84705f16b2a7aa26'
+client_id = 'clientid'
+client_secret = 'secretid'
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id, client_secret))
 
 #Traductor a japones
